@@ -1,4 +1,5 @@
-![GitHub profiler](https://github.com/user-attachments/assets/37e7fbdf-54a7-4ace-a106-51f5fe09a563)
+![GitHub profiler](https://github.com/user-attachments/assets/05c85c2a-cbda-4c1f-a98a-b81a3813932c)
+
 
 ## Hi there 👋
 
