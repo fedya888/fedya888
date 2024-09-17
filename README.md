@@ -1,3 +1,5 @@
+![GitHub profiler](https://github.com/user-attachments/assets/37e7fbdf-54a7-4ace-a106-51f5fe09a563)
+
 ## Hi there 👋
 
 <!--
