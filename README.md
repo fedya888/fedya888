@@ -1,4 +1,5 @@
-![GitHub profiler](https://github.com/user-attachments/assets/05c85c2a-cbda-4c1f-a98a-b81a3813932c)
+![GitHub profiler](https://github.com/user-attachments/assets/393e6acf-c043-46c0-a59b-76f8037d6d4a)
+
 ## Hello world :vulcan_salute:
 ### Обо мне:
 - :computer: Выпускник Цифровых кафедр Томского Государственного Университета
